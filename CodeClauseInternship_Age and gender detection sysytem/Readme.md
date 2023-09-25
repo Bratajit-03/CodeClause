@@ -1,7 +1,3 @@
-Certainly, here's a short README file for a Gender and Age Detection System:
-
----
-
 # Gender and Age Detection System
 
 This repository contains code and resources for building a Gender and Age Detection System using machine learning techniques. The system can predict the gender (male or female) and approximate age of a person based on input images.
